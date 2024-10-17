@@ -60,4 +60,4 @@ astro dev start
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2024 - elt_new_drive
